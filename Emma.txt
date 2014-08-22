@@ -1,0 +1,4 @@
+Se crea un archivo llamado .gitignore en el que se listan los patrones
+de nombre que seran ignorados como
+*.[oa]
+*~
